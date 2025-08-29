@@ -1,6 +1,6 @@
 [![MasterHead](https://raw.githubusercontent.com/Arunverma23/Arunverma23/refs/heads/main/GIT.png)](https://github.com/Arunverma23/Arunverma23)
-<h1 align="center">Hi 👋, I'm Arun Verma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!-- <h1 align="center">Hi 👋, I'm Arun Verma</h1> -->
+<h3 align="center">A passionate Frontend Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunverma23&label=Profile%20views&color=0e75b6&style=flat" alt="arunverma23" /> </p>
@@ -45,7 +45,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunVerma23&layout=compact&theme=tokyonight" width="359"/>
   <img src="https://github-readme-stats.vercel.app/api?username=ArunVerma23&show_icons=true&theme=tokyonight" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ArunVerma23&theme=tokyonight&hide_border=true" width="770" style="border:2px solid white; border-radius:12px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ArunVerma23&theme=tokyonight&hide_border=true" width="770"/>
 </p>
 
 
